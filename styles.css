@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+  border-style: solid;
+  font-family: monospace;
+
+}
+
+.calculator {
+  text-align: center;
+  border-style: solid;
+  width: 400px;
+  height: 500px;
+  margin:auto;
+  box-shadow: 20px 20px 20px 20px;
+}
+
+.btn-success {
+  width:70px;
+}
+
+.numpad {
+  width:275px;
+  margin:auto;
+}
+button .btn-info {
+  font-size: 80px;
+  width: 80px;
+}
+
+#answer {
+  width:200px;
+}
